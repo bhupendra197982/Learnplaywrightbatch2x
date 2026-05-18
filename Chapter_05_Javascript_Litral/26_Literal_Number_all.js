@@ -87,3 +87,6 @@ console.log("Maximum number:", Number.MAX_VALUE);
 console.log("Minimum number:", Number.MIN_VALUE);
 console.log("Maximum safe integer:", Number.MAX_SAFE_INTEGER); // 2^53 - 1
 console.log("Minimum safe integer:", Number.MIN_SAFE_INTEGER); // -(2^53 - 1)
+
+
+

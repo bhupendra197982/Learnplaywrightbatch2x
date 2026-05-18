@@ -32,3 +32,7 @@ let userNickname = null; // intentionally no nickname -> null
 
 console.log("userMiddleName:", userMiddleName);
 console.log("userNickname:", userNickname);
+
+
+
+
