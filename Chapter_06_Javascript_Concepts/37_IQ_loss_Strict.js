@@ -10,3 +10,4 @@ console.log(0 == false); // true (loose equality, false is converted to 0
 console.log(null == undefined); // true (loose equality, both are considered equal
 console.log(null === undefined); // false (strict equality, different types
 
+
