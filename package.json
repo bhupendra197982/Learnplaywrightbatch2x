@@ -1,0 +1,25 @@
+{
+  "name": "learnplaywrightbatch2x",
+  "version": "1.0.0",
+  "description": "A structured JavaScript and Playwright learning repository covering fundamentals from basics to advanced concepts.",
+  "main": "chapter_09_UserInput.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts:hello": "node --strip-types chapter_26_Typescript/194_TS_HelloWorld.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhupendra197982/Learnplaywrightbatch2x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/bhupendra197982/Learnplaywrightbatch2x/issues"
+  },
+  "homepage": "https://github.com/bhupendra197982/Learnplaywrightbatch2x#readme",
+  "dependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
